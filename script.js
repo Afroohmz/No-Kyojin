@@ -1,3 +1,4 @@
+$(function () {
 });
 $(document).ready(function() {
   // Function to generate time blocks for standard business hours
